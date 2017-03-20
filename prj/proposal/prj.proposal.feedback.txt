@@ -1,0 +1,11 @@
+10 pts
+
+Juan,
+
+I believe we have discussed in person a new project, right?
+Proceed with caution considering my personal recommendations about the project;
+remember to always have a clear sequence to validate using a DFA.
+
+Peace,
+
+- Dr. Rivas
