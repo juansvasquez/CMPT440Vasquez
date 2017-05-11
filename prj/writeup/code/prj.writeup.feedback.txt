@@ -1,0 +1,9 @@
+37 pts
+
+The project attempts to validate registration for courses.
+The idea has good merit. 
+
+Overall:
+- Project is not complete, only work for a very small subset of classes. -2pts
+
+- Decent work below average of a formal languages student. -1pt
